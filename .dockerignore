@@ -1,0 +1,7 @@
+# ignore git files
+.git/**
+.github/**
+
+# ignore env files
+.env
+.env.*
